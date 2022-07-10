@@ -23,7 +23,7 @@ If I do update an existing API, it's to add more options to the API.
 
 ## TODO
 
-Dockerfile - Needs to be finished.
+* Dockerfile - Needs to be finished.
 * https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
-CORS - FastAPI has some issues with accessing on non-local addresses
+* CORS - FastAPI has some issues with accessing on non-local addresses
 * https://fastapi.tiangolo.com/tutorial/cors/
